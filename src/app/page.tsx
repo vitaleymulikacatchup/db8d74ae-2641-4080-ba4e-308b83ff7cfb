@@ -71,7 +71,6 @@ export default function Home() {
             { items: [{ label: 'Support', onClick: () => {} }, { label: 'Contact Us', onClick: () => {} }] },
             { items: [{ label: 'FAQ', onClick: () => {} }, { label: 'Blog', onClick: () => {} }] },
           ]}
-          onPrivacyClick={() => {}}
         />
       </div>
     </SiteThemeProvider>
